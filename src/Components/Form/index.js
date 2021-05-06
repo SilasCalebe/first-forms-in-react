@@ -3,8 +3,8 @@ import Box from '../Box';
 
 
 const Form = styled(Box).attrs({ as: "form"})`
-    width: 600px;
-    height: 420px;
+    width: 350px;
+    height: 460px;
 `;
 
 

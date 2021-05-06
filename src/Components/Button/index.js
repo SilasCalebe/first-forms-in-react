@@ -9,7 +9,7 @@ const Button = styled.button`
     font-family: 'Baloo Da 2', cursive;
     font-size: 18px;
     color: white;
-    margin-left: 225px;
+    margin-left: 113px;
     margin-top: 39px;
    
 

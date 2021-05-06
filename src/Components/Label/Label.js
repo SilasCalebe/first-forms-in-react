@@ -2,15 +2,15 @@ import styled from 'styled-components';
 
 
 
-const Label = styled.label`
-    font-size: 22px;
+const H3 = styled.h3`
+    font-size: 19px;
     font-family: 'Baloo Da 2', cursive;
     color: white;
-    margin-left: 32px;
+    margin-top: 46px;
     text-align: center;
 
     
 `;
 
 
-export default Label;
+export default H3;
